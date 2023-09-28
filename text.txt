@@ -1,0 +1,27 @@
+1. Câu lênh khởi tạo Git reponsitory
+- git init
+2. Thêm file:
+git add . add all file
+git add index.html add a file
+3. Tạo phiên bản của source code
+git commit -m "Tên phiên bản, hoặc việc làm khi push code"
+4. Xem nội dung commit do người nào tạo và thời gian tạo commit
+git log
+5. Kiểm tra các file đang nằm trên staging area sau khi dùng git add
+git status
+6. Thay nhánh
+git branch -M main
+7. Tạo liên kết remote với reponsivetory
+git remote add origin https://github.com/HuynhTV2711/samar.git
+8. Đẩy code lên github lần đầu
+git push -u origin main
+9. đẩy code lên github lần 2 trở đi
+git add .
+git commit -m "Update lần 2"
+git push 
+commit
+tét test test
+
+hưng test
+
+
