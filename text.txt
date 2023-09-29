@@ -25,3 +25,10 @@ tét test test
 hưng test pusd test thử
 
 
+-----------------------------------
+git branch name / tạo nhánh
+git check out name / chuyển qua nhánh mới
+git add .
+git commit -m " "
+git push --set-upstream origin name / push code lên nhánh
+
